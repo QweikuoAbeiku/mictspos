@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/129f0031-a6d4-4ce5-b3a2-45f3d9931601/AppServices/subscriptions/129f0031-a6d4-4ce5-b3a2-45f3d9931601/resourceGroups/MICTSPOS/providers/Microsoft.Web/sites/mictspos",
+  "appService.deploySubpath": "application"
+}
